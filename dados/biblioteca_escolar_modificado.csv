@@ -1,0 +1,21 @@
+﻿aluno;turma;livro;genero;data_emprestimo;data_devolucao;status;dias_emprestado;dias_pendente
+Ana Clara;1A;O Pequeno Príncipe;Aventura;2026-10-01;2026-10-08;Devolvido;7;
+Lucas;1B;Chapeuzinho Vermelho;Conto;2026-10-02;2026-10-09;Devolvido;7;
+Mariana;2A;A Menina e o Dragão;Fantasia;2026-10-03;2026-10-10;Devolvido;7;
+Pedro;2B;O Pequeno Príncipe;Aventura;2026-10-04;;Em andamento;;28
+Beatriz;1A;A Ilha do Tesouro;Aventura;2026-10-05;2026-10-12;Devolvido;7;
+Gabriel;3A;A Menina e o Dragão;Fantasia;2026-10-06;;Em andamento;;26
+Sofia;2A;Chapeuzinho Vermelho;Conto;2026-10-07;2026-10-14;Devolvido;7;
+Miguel;3B;Viagem ao Espaço;Ficção;2026-10-08;2026-10-15;Devolvido;7;
+Helena;1B;O Sítio das Descobertas;Aventura;2026-10-09;;Em andamento;;23
+Arthur;2B;Viagem ao Espaço;Ficção;2026-10-10;2026-10-17;Devolvido;7;
+Laura;3A;A Ilha do Tesouro;Aventura;2026-10-11;2026-10-18;Devolvido;7;
+Davi;1A;O Sítio das Descobertas;Aventura;2026-10-12;;Em andamento;;20
+Valentina;2A;O Pequeno Príncipe;Aventura;2026-10-13;2026-10-20;Devolvido;7;
+Enzo;3B;Chapeuzinho Vermelho;Conto;2026-10-14;2026-10-21;Devolvido;7;
+Alice;1B;Viagem ao Espaço;Ficção;2026-10-15;;Em andamento;;17
+Rafael;2B;A Menina e o Dragão;Fantasia;2026-10-16;2026-10-23;Devolvido;7;
+Isabella;3A;O Sítio das Descobertas;Aventura;2026-10-17;2026-10-24;Devolvido;7;
+Bernardo;1A;A Ilha do Tesouro;Aventura;2026-10-18;;Em andamento;;14
+Manuela;2A;Viagem ao Espaço;Ficção;2026-10-19;2026-10-26;Devolvido;7;
+Theo;3B;O Pequeno Príncipe;Aventura;2026-10-20;;Em andamento;;12

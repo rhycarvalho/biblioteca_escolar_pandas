@@ -1,0 +1,21 @@
+﻿aluno;turma;livro;genero;data_emprestimo;data_devolucao;status
+Ana Clara;1A;O Pequeno Príncipe;Aventura;2026-10-01;2026-10-08;Devolvido
+Lucas;1B;Chapeuzinho Vermelho;Conto;2026-10-02;2026-10-09;Devolvido
+Mariana;2A;A Menina e o Dragão;Fantasia;2026-10-03;2026-10-10;Devolvido
+Pedro;2B;O Pequeno Príncipe;Aventura;2026-10-04;;Em andamento
+Beatriz;1A;A Ilha do Tesouro;Aventura;2026-10-05;2026-10-12;Devolvido
+Gabriel;3A;A Menina e o Dragão;Fantasia;2026-10-06;;Em andamento
+Sofia;2A;Chapeuzinho Vermelho;Conto;2026-10-07;2026-10-14;Devolvido
+Miguel;3B;Viagem ao Espaço;Ficção;2026-10-08;2026-10-15;Devolvido
+Helena;1B;O Sítio das Descobertas;Aventura;2026-10-09;;Em andamento
+Arthur;2B;Viagem ao Espaço;Ficção;2026-10-10;2026-10-17;Devolvido
+Laura;3A;A Ilha do Tesouro;Aventura;2026-10-11;2026-10-18;Devolvido
+Davi;1A;O Sítio das Descobertas;Aventura;2026-10-12;;Em andamento
+Valentina;2A;O Pequeno Príncipe;Aventura;2026-10-13;2026-10-20;Devolvido
+Enzo;3B;Chapeuzinho Vermelho;Conto;2026-10-14;2026-10-21;Devolvido
+Alice;1B;Viagem ao Espaço;Ficção;2026-10-15;;Em andamento
+Rafael;2B;A Menina e o Dragão;Fantasia;2026-10-16;2026-10-23;Devolvido
+Isabella;3A;O Sítio das Descobertas;Aventura;2026-10-17;2026-10-24;Devolvido
+Bernardo;1A;A Ilha do Tesouro;Aventura;2026-10-18;;Em andamento
+Manuela;2A;Viagem ao Espaço;Ficção;2026-10-19;2026-10-26;Devolvido
+Theo;3B;O Pequeno Príncipe;Aventura;2026-10-20;;Em andamento
